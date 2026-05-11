@@ -15,3 +15,4 @@
 "C:\Users\johnm\Projects\VAO_Observing\.git"
 "C:\Users\johnm\Projects\VAO_Observing\Observations_Outputs\2025-08-25_V0572Cam\Plots"
 "C:\Users\johnm\Projects\GenerateBackup\.git"
+"C:\Users\johnm\Projects\Visibility_Planner\.git"
